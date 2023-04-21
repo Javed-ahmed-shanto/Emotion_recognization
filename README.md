@@ -1,2 +1,2 @@
 # Emotion_recognization
-Emotion Recognition
+Emotion Recognition using deeo learning(CNN+LSTM) (Simplified)
